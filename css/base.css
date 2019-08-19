@@ -184,6 +184,14 @@
 				background-position: center center;
 			}
 
+			#backVid {
+				position: absolute;
+				right: 0;
+				bottom: 0;
+				min-width: 100%;
+				height: auto;
+			}
+
 			#main > section.one {
 				background-color: #81918E;
 				background-image: url("../../images/banner.jpg");
